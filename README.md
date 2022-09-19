@@ -5,7 +5,7 @@
 
 #### Lista de exercícios I
 
-[##### 1. Faça um algoritmo que receba dois números e exiba o resultado da sua soma;](https://github.com/leonardolginfo/StartCapgemini-Exercicios/blob/main/src/com/br/lginfo/ListaUm/SomaDoisNumeros.java)
+##### [1. Faça um algoritmo que receba dois números e exiba o resultado da sua soma;](https://github.com/leonardolginfo/StartCapgemini-Exercicios/blob/main/src/com/br/lginfo/ListaUm/SomaDoisNumeros.java)
 ##### 2. Faça um algoritmo que receba dois números e ao final mostre a soma, subtração, multiplicação e a divisão 
 dos dois números lidos;
 ##### 3. Escreva um algoritmo para determinar o consumo médio de um automóvel sendo fornecida a distância 
